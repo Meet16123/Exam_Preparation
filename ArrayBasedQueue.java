@@ -1,4 +1,4 @@
-public class QueueB {
+public class ArrayBasedQueue {
     static class Queue {
         static int arr[];
         static int size;
